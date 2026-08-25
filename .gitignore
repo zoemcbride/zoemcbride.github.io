@@ -1,8 +1,9 @@
-touch .gitignore
-
-vim .gitignore
+# Python
 website-venv/
 *.pyc
 *.pyo
 *.pyd
 __pycache__/
+
+# macOS Finder metadata
+.DS_Store

@@ -1,5 +1,26 @@
 [
     {
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "rating": 4,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748242265i/22557272.jpg",
+        "review_text": "This novel takes the otherwise mundane train commute and brings it to life (or death?). Through Rachel's commute, we quickly see that things are not as they seem on the surface. I love that we get to experience the series of events unfolding from multiple points of view; each character has their flaws, and I really enjoyed being able to explore them. It comes together quickly, and yet slowly. It can be heavy at times, as each character has their traumas, but I couldn't put it down. Finished within a few days!"
+    },
+    {
+        "title": "Verity",
+        "author": "Colleen Hoover",
+        "rating": 3,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634158558i/59344312.jpg",
+        "review_text": "Another thriller for my collection! Here, Lowen is a struggling writer tasked with ghost-writing for a famous author, Verity, who is alive but unable to finish her series. I read this one over the course of a flight - with each page you want to uncover the mystery of what happened to Verity's family. Uncovering the truth via Lowen is an interesting choice, though I do wish we could have heard more from Verity's standpoint. It gets dark very quickly - beware!"
+    },
+    {
+        "title": "Yesteryear",
+        "author": "Caro Claire Burke",
+        "rating": 5,
+        "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1753932705i/238226942.jpg",
+        "review_text": "In Yesteryear, our protagonist is a modern-day tradwife influencer who finds herself waking up in the 1800s. I found her hard to like, which is unusual for a first-person novel, but she hooks you right in anyway. Her internal dialogue is full of comments that are somehow relatable, which makes it all the more jarring. This book was an emotional rollercoaster for me. It was hard to put down, and I really enjoyed the twists and turns it made. It also left me thinking a lot about what we consume on products like Instagram, and about gender norms."
+    },
+    {
         "title": "Tomorrow, and Tomorrow, and Tomorrow",
         "author": "Gabrielle Zevin",
         "rating": 3,
@@ -125,5 +146,4 @@
         "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547189796i/37570546.jpg",
         "review_text": "Loved this book. Refreshingly real, and with a sense of humor that you wouldn’t expect!"
     }
-    
 ]
